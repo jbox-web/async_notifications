@@ -12,7 +12,7 @@ A small DSL to register your own async notifications and events. To use with [d'
 gem 'async_notifications', '~> 1.0.0', git: 'https://github.com/jbox-web/async_notifications.git', tag: '1.0.0'
 ```
 
-then `bundle install`
+then `bundle install`.
 
 ## Usage
 
