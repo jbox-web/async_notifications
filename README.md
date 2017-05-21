@@ -22,6 +22,7 @@ then `bundle install`.
 ## Contribute
 
 You can contribute to this plugin in many ways such as :
+
 * Helping with documentation
 * Contributing code (features or bugfixes)
 * Reporting a bug
